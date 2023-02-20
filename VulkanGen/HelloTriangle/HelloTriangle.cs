@@ -6,7 +6,7 @@ namespace KHRRTXHelloTriangle
     public unsafe partial class HelloTriangle
     {
         const uint WIDTH = 800;
-        const uint HEIGHT = 600;       
+        const uint HEIGHT = 600;
 
         private Form window;
 
